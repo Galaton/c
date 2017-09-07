@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1464836041 source:/home/gabriel/Downloads/AOC_Gabriel /Partegabriel/criar.c
+	"criar.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1464835374 /home/gabriel/Downloads/AOC_Gabriel /Partegabriel/criar.h
+
+1464835564 source:/home/gabriel/Downloads/AOC_Gabriel /Partegabriel/main.c
+	"criar.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1464887538 source:/home/gabriel/Downloads/AOC_Gabriel /modificacao/main.c
+	"criar.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1464840861 /home/gabriel/Downloads/AOC_Gabriel /modificacao/criar.h
+
+1464887508 source:/home/gabriel/Downloads/AOC_Gabriel /modificacao/criar.c
+	"criar.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
